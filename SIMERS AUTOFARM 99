@@ -1,1 +1,1 @@
-https://github.com/deontewolf5/SIMERS-AUTOFARM-99/blob/main/SIMERS%20AUTOFARM%2099
+loadstring(game:HttpGet("https://github.com/deontewolf5/SIMERS-AUTOFARM-99/blob/main/SIMERS%20AUTOFARM%2099", true))()
